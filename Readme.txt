@@ -1,5 +1,5 @@
 All styles locates in the folder css, also all animation and validation code locates in js folder.
-None  libraries styles are used, exept font aweasome for icons, as it was allowed during first semester.
+None  libraries styles are used, except font aweasome for icons, as it was allowed during first semester.
 
 References:
 
