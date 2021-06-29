@@ -1,6 +1,8 @@
 All styles locates in the folder css, also all animation and validation code locates in js folder.
 None  libraries styles are used, except font aweasome for icons, as it was allowed during first semester.
 
+link to hosting: 
+
 References:
 
 1. Фотография Бизнес-женщина, использующая планшет в офисе информационных технологий от nd3000 on Envato Elements. (no date). Envato Elements. Available from https://elements.envato.com/ru/businesswoman-using-tablet-at-information-technolo-7B83CMM [Accessed 29 June 2021].
