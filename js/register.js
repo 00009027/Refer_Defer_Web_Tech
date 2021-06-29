@@ -1,3 +1,5 @@
+// ANIMATON UN REGISTRATION PAGE
+
 // Some random colors
 const colors = ["#5632D0", "#00FFFF", "#AAAAAA", "#00EAB1", "#5632D0"];
 
